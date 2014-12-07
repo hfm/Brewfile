@@ -49,7 +49,7 @@ install reattach-to-user-namespace
 install ssh-copy-id
 install the_silver_searcher
 install tig
-install tmux || true
+install tmux
 install tree
 install unzip
 install vim --with-lua --with-luajit
