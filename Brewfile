@@ -57,3 +57,16 @@ install watch
 install weechat --with-python --with-perl --with-ruby --with-lua
 install wget
 install zsh
+
+cask install coteditor
+cask install cyberduck
+cask install dropbox
+cask install firefox
+cask install google-chrome
+cask install iterm2
+cask install opera
+cask install silverlight
+cask install skitch
+cask install skype
+cask install vagrant
+cask install virtualbox
