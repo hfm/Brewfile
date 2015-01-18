@@ -49,7 +49,7 @@ install reattach-to-user-namespace
 install ssh-copy-id
 install the_silver_searcher
 install tig
-install tmux || true
+install tmux
 install tree
 install unzip
 install vim --with-lua --with-luajit
@@ -58,12 +58,18 @@ install weechat --with-python --with-perl --with-ruby --with-lua
 install wget
 install zsh
 
+cask install coteditor
 cask install cyberduck
 cask install dropbox
+cask install firefox
 cask install google-chrome
 cask install google-japanese-ime
 cask install iterm2
 cask install karabiner
 cask install lastpass-universal
+cask install opera
+cask install silverlight
+cask install skitch
 cask install skype
+cask install vagrant
 cask install virtualbox
