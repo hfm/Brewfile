@@ -57,3 +57,13 @@ install watch
 install weechat --with-python --with-perl --with-ruby --with-lua
 install wget
 install zsh
+
+cask install cyberduck
+cask install dropbox
+cask install google-chrome
+cask install google-japanese-ime
+cask install iterm2
+cask install karabiner
+cask install lastpass-universal
+cask install skype
+cask install virtualbox
