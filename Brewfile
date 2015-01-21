@@ -34,6 +34,7 @@ install hub --HEAD
 install imagemagick
 install isync
 install jq
+install libiconv
 install laurent22/massren/massren
 install mosh
 install msmtp
